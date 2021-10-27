@@ -1,1 +1,1 @@
-# -Spam-classification-with-Naive-Bayes-and-Support-Vector-Machines
+# Spam-classification-with-Naive-Bayes-and-Support-Vector-Machines.
